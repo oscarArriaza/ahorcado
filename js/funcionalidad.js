@@ -115,7 +115,6 @@ document.addEventListener
                                 guardarMensajeFinal("victoria");
                                 bloquearLetras(letras);
                                 mostrarInformacion("victoria");
-                                empezarProcesoPosteriorAClickearBotonVolverAJugar();
                             }
                         }
                         else
