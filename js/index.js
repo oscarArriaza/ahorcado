@@ -17,7 +17,7 @@ document.addEventListener
                 guardarNumeroDeErrores();
                 guardarMensajeFinal();
 
-                window.location.href="./ahorcado.html";
+                window.location.href="ahorcado.html";
             }
 
             botonJugar.addEventListener
